@@ -1,0 +1,17 @@
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver.test\obj\Debug\netcoreapp2.2\TaskDependencyResolver.test.csprojAssemblyReference.cache
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver.test\obj\Debug\netcoreapp2.2\TaskDependencyResolver.test.csproj.CoreCompileInputs.cache
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver.test\obj\Debug\netcoreapp2.2\TaskDependencyResolver.test.AssemblyInfoInputs.cache
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver.test\obj\Debug\netcoreapp2.2\TaskDependencyResolver.test.AssemblyInfo.cs
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver.test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver.test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver.test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver.test\bin\Debug\netcoreapp2.2\TaskDependencyResolver.test.deps.json
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver.test\bin\Debug\netcoreapp2.2\TaskDependencyResolver.test.runtimeconfig.json
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver.test\bin\Debug\netcoreapp2.2\TaskDependencyResolver.test.runtimeconfig.dev.json
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver.test\bin\Debug\netcoreapp2.2\TaskDependencyResolver.test.dll
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver.test\bin\Debug\netcoreapp2.2\TaskDependencyResolver.test.pdb
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver.test\bin\Debug\netcoreapp2.2\TaskDependencyResolver.dll
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver.test\bin\Debug\netcoreapp2.2\TaskDependencyResolver.pdb
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver.test\obj\Debug\netcoreapp2.2\TaskDependencyResolver.test.csproj.CopyComplete
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver.test\obj\Debug\netcoreapp2.2\TaskDependencyResolver.test.dll
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver.test\obj\Debug\netcoreapp2.2\TaskDependencyResolver.test.pdb

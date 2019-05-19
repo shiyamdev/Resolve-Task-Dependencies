@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mshiy\\Downloads\\Resolve Task Dependencies\\TaskDependencyResolver.test\\TaskDependencyResolver.test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mshiy\\Downloads\\Resolve Task Dependencies\\TaskDependencyResolver.test\\TaskDependencyResolver.test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mshiy\\Downloads\\Resolve Task Dependencies\\TaskDependencyResolver.test\\TaskDependencyResolver.test.csproj",
+        "projectName": "TaskDependencyResolver.test",
+        "projectPath": "C:\\Users\\mshiy\\Downloads\\Resolve Task Dependencies\\TaskDependencyResolver.test\\TaskDependencyResolver.test.csproj",
+        "packagesPath": "C:\\Users\\mshiy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mshiy\\Downloads\\Resolve Task Dependencies\\TaskDependencyResolver.test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mshiy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\mshiy\\Downloads\\Resolve Task Dependencies\\TaskDependencyResolver\\TaskDependencyResolver.csproj": {
+                "projectPath": "C:\\Users\\mshiy\\Downloads\\Resolve Task Dependencies\\TaskDependencyResolver\\TaskDependencyResolver.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.10.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\mshiy\\Downloads\\Resolve Task Dependencies\\TaskDependencyResolver\\TaskDependencyResolver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mshiy\\Downloads\\Resolve Task Dependencies\\TaskDependencyResolver\\TaskDependencyResolver.csproj",
+        "projectName": "TaskDependencyResolver",
+        "projectPath": "C:\\Users\\mshiy\\Downloads\\Resolve Task Dependencies\\TaskDependencyResolver\\TaskDependencyResolver.csproj",
+        "packagesPath": "C:\\Users\\mshiy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mshiy\\Downloads\\Resolve Task Dependencies\\TaskDependencyResolver\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mshiy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

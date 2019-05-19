@@ -1,0 +1,10 @@
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver\bin\Debug\netcoreapp2.2\TaskDependencyResolver.deps.json
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver\bin\Debug\netcoreapp2.2\TaskDependencyResolver.runtimeconfig.json
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver\bin\Debug\netcoreapp2.2\TaskDependencyResolver.runtimeconfig.dev.json
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver\bin\Debug\netcoreapp2.2\TaskDependencyResolver.dll
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver\bin\Debug\netcoreapp2.2\TaskDependencyResolver.pdb
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver\obj\Debug\netcoreapp2.2\TaskDependencyResolver.csproj.CoreCompileInputs.cache
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver\obj\Debug\netcoreapp2.2\TaskDependencyResolver.AssemblyInfoInputs.cache
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver\obj\Debug\netcoreapp2.2\TaskDependencyResolver.AssemblyInfo.cs
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver\obj\Debug\netcoreapp2.2\TaskDependencyResolver.dll
+C:\Users\mshiy\Downloads\Resolve Task Dependencies\TaskDependencyResolver\obj\Debug\netcoreapp2.2\TaskDependencyResolver.pdb
